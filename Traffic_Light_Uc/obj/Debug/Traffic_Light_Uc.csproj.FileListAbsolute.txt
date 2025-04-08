@@ -1,0 +1,11 @@
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\bin\Debug\Traffic_Light_Uc.exe.config
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\bin\Debug\Traffic_Light_Uc.exe
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\bin\Debug\Traffic_Light_Uc.pdb
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\obj\Debug\Traffic_Light_Uc.csproj.AssemblyReference.cache
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\obj\Debug\Traffic_Light_Uc.Properties.Resources.resources
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\obj\Debug\Traffic_Light_Uc.csproj.GenerateResource.cache
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\obj\Debug\Traffic_Light_Uc.csproj.CoreCompileInputs.cache
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\obj\Debug\Traffic_Light_Uc.exe
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\obj\Debug\Traffic_Light_Uc.pdb
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\obj\Debug\Traffic_Light_Uc.uc_Traffic_Light.resources
+C:\Users\Ruaa\source\repos\Traffic_Light_Uc\obj\Debug\Traffic_Light_Uc.Form1.resources
